@@ -30,4 +30,4 @@ Installing BladeBeam under `C:\Users\<YourName>\...` is recommended because:
 
 ## Using BladeBeam
 
-Download the Input-Examples folder for example BladeBeam input files to copy and modify as needed for your own analyses. Read the User Guide for more information on the theory behind BladeBeam and instruction on how to use the program.
+Download the Input-Examples folder for example BladeBeam input files to copy and modify as needed for your own analyses. Read the User Guide for more information on the theory behind BladeBeam and instructions on how to use the program.
